@@ -1,2 +1,2 @@
-# mtc_repo-backend
-This is a python repository for backend developers
+# This dev python repository is for backend developers.
+The infra was last updated by Wouter Wijffels.
